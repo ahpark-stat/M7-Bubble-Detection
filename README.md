@@ -101,14 +101,14 @@ Conditional VaR
 VaR | Bubble
 VaR | Normal
 ### Regime Comparison
-2020~2023
+- 2020~2023
 Bubble VaR ≈ -22% ~ -24%
-2024~2025
+- 2024~2025
 Bubble VaR = -35.2%
 ### Interpretation
 최근 버블은 과거보다 훨씬 깊은 손실을 유발할 가능성이 있다. 
 
-###Backtesting
+### Backtesting
 - Goal: 리스크 탐지 모델이 실제 투자 성과를 개선할 수 있는지 검증
 ### Result
 - Low Risk
